@@ -1,0 +1,1527 @@
+GSet Insert Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Insert Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Increment Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Increment Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Set Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Set Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Insert Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Insert Avg Memory Usage: Physical: 185.06 bytes, Virtual: 194.28 bytes
+GList Insert Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 50 Avg Memory Usage: Physical: 0.01 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 50 Avg Memory Usage: Physical: 0.42 bytes, Virtual: 0.39 bytes
+GCounter Multiple Increment 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 50 Avg Memory Usage: Physical: 0.03 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 50 Avg Memory Usage: Physical: 0.39 bytes, Virtual: 0.19 bytes
+List Multiple Insert 50 Avg Memory Usage: Physical: 0.53 bytes, Virtual: 0.00 bytes
+GList Multiple Insert 50 Avg Memory Usage: Physical: 0.02 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 100 Avg Memory Usage: Physical: 0.54 bytes, Virtual: 0.81 bytes
+GCounter Multiple Increment 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 100 Avg Memory Usage: Physical: 0.73 bytes, Virtual: 3.98 bytes
+List Multiple Insert 100 Avg Memory Usage: Physical: 0.10 bytes, Virtual: 0.00 bytes
+GList Multiple Insert 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 1.47 bytes
+GSet Multiple Insert 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 150 Avg Memory Usage: Physical: 2.46 bytes, Virtual: 3.07 bytes
+GCounter Multiple Increment 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 150 Avg Memory Usage: Physical: 0.78 bytes, Virtual: 0.78 bytes
+List Multiple Insert 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.11 bytes
+GList Multiple Insert 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 200 Avg Memory Usage: Physical: 0.06 bytes, Virtual: 0.00 bytes
+GCounter Multiple Increment 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 200 Avg Memory Usage: Physical: 1.57 bytes, Virtual: 1.57 bytes
+List Multiple Insert 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Multiple Insert 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 250 Avg Memory Usage: Physical: 0.01 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 250 Avg Memory Usage: Physical: 0.39 bytes, Virtual: 0.39 bytes
+GCounter Multiple Increment 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 250 Avg Memory Usage: Physical: 2.46 bytes, Virtual: 7.77 bytes
+List Multiple Insert 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Multiple Insert 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 300 Avg Memory Usage: Physical: 4.81 bytes, Virtual: 6.49 bytes
+GCounter Multiple Increment 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 300 Avg Memory Usage: Physical: 3.14 bytes, Virtual: 48.59 bytes
+List Multiple Insert 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Multiple Insert 300 Avg Memory Usage: Physical: 0.10 bytes, Virtual: 0.10 bytes
+GSet Multiple Insert 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 350 Avg Memory Usage: Physical: 0.67 bytes, Virtual: 1.68 bytes
+GCounter Multiple Increment 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 350 Avg Memory Usage: Physical: 5.37 bytes, Virtual: 10.08 bytes
+List Multiple Insert 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Multiple Insert 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 400 Avg Memory Usage: Physical: 1.17 bytes, Virtual: 1.17 bytes
+GCounter Multiple Increment 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 400 Avg Memory Usage: Physical: 4.55 bytes, Virtual: 8.83 bytes
+List Multiple Insert 400 Avg Memory Usage: Physical: 1.15 bytes, Virtual: 1.15 bytes
+GList Multiple Insert 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 450 Avg Memory Usage: Physical: 1.95 bytes, Virtual: 2.08 bytes
+GCounter Multiple Increment 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 450 Avg Memory Usage: Physical: 7.19 bytes, Virtual: 11.41 bytes
+List Multiple Insert 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Multiple Insert 450 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.11 bytes
+GSet Multiple Insert 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 500 Avg Memory Usage: Physical: 2.08 bytes, Virtual: 2.47 bytes
+GCounter Multiple Increment 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 500 Avg Memory Usage: Physical: 6.67 bytes, Virtual: 14.21 bytes
+List Multiple Insert 500 Avg Memory Usage: Physical: 7.61 bytes, Virtual: 9.41 bytes
+GList Multiple Insert 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 550 Avg Memory Usage: Physical: 4.56 bytes, Virtual: 4.91 bytes
+GCounter Multiple Increment 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 550 Avg Memory Usage: Physical: 3.16 bytes, Virtual: 1.93 bytes
+List Multiple Insert 550 Avg Memory Usage: Physical: 2.24 bytes, Virtual: 2.69 bytes
+GList Multiple Insert 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 600 Avg Memory Usage: Physical: 0.78 bytes, Virtual: 0.65 bytes
+GCounter Multiple Increment 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 600 Avg Memory Usage: Physical: 10.88 bytes, Virtual: 35.80 bytes
+List Multiple Insert 600 Avg Memory Usage: Physical: 6.93 bytes, Virtual: 7.50 bytes
+GList Multiple Insert 600 Avg Memory Usage: Physical: 0.52 bytes, Virtual: 0.52 bytes
+GSet Multiple Insert 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 650 Avg Memory Usage: Physical: 4.21 bytes, Virtual: 7.19 bytes
+GCounter Multiple Increment 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 650 Avg Memory Usage: Physical: 17.69 bytes, Virtual: 17.69 bytes
+List Multiple Insert 650 Avg Memory Usage: Physical: 9.81 bytes, Virtual: 10.97 bytes
+GList Multiple Insert 650 Avg Memory Usage: Physical: 1.17 bytes, Virtual: 1.43 bytes
+GSet Multiple Insert 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 700 Avg Memory Usage: Physical: 7.72 bytes, Virtual: 11.23 bytes
+GCounter Multiple Increment 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 700 Avg Memory Usage: Physical: 2.46 bytes, Virtual: 1.34 bytes
+List Multiple Insert 700 Avg Memory Usage: Physical: 17.36 bytes, Virtual: 19.29 bytes
+GList Multiple Insert 700 Avg Memory Usage: Physical: 0.70 bytes, Virtual: 0.70 bytes
+GSet Multiple Insert 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 750 Avg Memory Usage: Physical: 0.88 bytes, Virtual: 0.70 bytes
+GCounter Multiple Increment 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 750 Avg Memory Usage: Physical: 22.39 bytes, Virtual: 23.07 bytes
+List Multiple Insert 750 Avg Memory Usage: Physical: 20.24 bytes, Virtual: 22.27 bytes
+GList Multiple Insert 750 Avg Memory Usage: Physical: 0.67 bytes, Virtual: 0.67 bytes
+GSet Multiple Insert 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 800 Avg Memory Usage: Physical: 5.26 bytes, Virtual: 5.44 bytes
+GCounter Multiple Increment 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 800 Avg Memory Usage: Physical: 2.91 bytes, Virtual: 2.91 bytes
+List Multiple Insert 800 Avg Memory Usage: Physical: 15.18 bytes, Virtual: 38.46 bytes
+GList Multiple Insert 800 Avg Memory Usage: Physical: 0.35 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 850 Avg Memory Usage: Physical: 7.37 bytes, Virtual: 8.60 bytes
+GCounter Multiple Increment 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 850 Avg Memory Usage: Physical: 2.02 bytes, Virtual: 0.45 bytes
+List Multiple Insert 850 Avg Memory Usage: Physical: 20.76 bytes, Virtual: 21.79 bytes
+GList Multiple Insert 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 900 Avg Memory Usage: Physical: 1.12 bytes, Virtual: 0.67 bytes
+GCounter Multiple Increment 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 900 Avg Memory Usage: Physical: 22.84 bytes, Virtual: 23.07 bytes
+List Multiple Insert 900 Avg Memory Usage: Physical: 33.81 bytes, Virtual: 62.55 bytes
+GList Multiple Insert 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 950 Avg Memory Usage: Physical: 1.57 bytes, Virtual: 0.22 bytes
+GCounter Multiple Increment 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 950 Avg Memory Usage: Physical: 6.27 bytes, Virtual: 2.91 bytes
+List Multiple Insert 950 Avg Memory Usage: Physical: 32.79 bytes, Virtual: 53.09 bytes
+GList Multiple Insert 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Insert 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Insert 1000 Avg Memory Usage: Physical: 12.76 bytes, Virtual: 14.78 bytes
+GCounter Multiple Increment 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Increment 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Set 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Set 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Insert 1000 Avg Memory Usage: Physical: 39.53 bytes, Virtual: 51.07 bytes
+List Multiple Insert 1000 Avg Memory Usage: Physical: 65.93 bytes, Virtual: 305.97 bytes
+GList Multiple Insert 1000 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Concurrent GSet Insert Avg Memory Usage: Physical: 1.23 bytes, Virtual: 0.90 bytes
+Concurrent Orswot Insert Avg Memory Usage: Physical: 2.35 bytes, Virtual: 0.78 bytes
+Concurrent GCounter Increment Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Increment Avg Memory Usage: Physical: 0.67 bytes, Virtual: 0.34 bytes
+Concurrent LWWReg Set Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Set Avg Memory Usage: Physical: 0.34 bytes, Virtual: 0.00 bytes
+Concurrent Map Insert Avg Memory Usage: Physical: 0.34 bytes, Virtual: 0.00 bytes
+Concurrent List Insert Avg Memory Usage: Physical: 929.42 bytes, Virtual: 955.51 bytes
+Concurrent GList Insert Avg Memory Usage: Physical: 0.78 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 50 Avg Memory Usage: Physical: 0.67 bytes, Virtual: 0.78 bytes
+Concurrent Orswot Multiple Insert 50 Avg Memory Usage: Physical: 1.46 bytes, Virtual: 4.93 bytes
+Concurrent GCounter Multiple Increment 50 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 50 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 50 Avg Memory Usage: Physical: 0.52 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 50 Avg Memory Usage: Physical: 1.34 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 50 Avg Memory Usage: Physical: 2.91 bytes, Virtual: 1.79 bytes
+Concurrent List Multiple Insert 50 Avg Memory Usage: Physical: 2.02 bytes, Virtual: 4.48 bytes
+Concurrent GList Multiple Insert 50 Avg Memory Usage: Physical: 0.34 bytes, Virtual: 0.11 bytes
+Concurrent GSet Multiple Insert 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 100 Avg Memory Usage: Physical: 0.52 bytes, Virtual: 0.26 bytes
+Concurrent GCounter Multiple Increment 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 100 Avg Memory Usage: Physical: 2.08 bytes, Virtual: 1.69 bytes
+Concurrent List Multiple Insert 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.22 bytes
+Concurrent GList Multiple Insert 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.34 bytes
+Concurrent GSet Multiple Insert 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 150 Avg Memory Usage: Physical: 0.13 bytes, Virtual: 0.91 bytes
+Concurrent GCounter Multiple Increment 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 150 Avg Memory Usage: Physical: 1.30 bytes, Virtual: 1.30 bytes
+Concurrent List Multiple Insert 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.45 bytes
+Concurrent GList Multiple Insert 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 200 Avg Memory Usage: Physical: 0.35 bytes, Virtual: 0.18 bytes
+Concurrent GCounter Multiple Increment 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 200 Avg Memory Usage: Physical: 2.46 bytes, Virtual: 0.88 bytes
+Concurrent List Multiple Insert 200 Avg Memory Usage: Physical: 2.31 bytes, Virtual: 25.39 bytes
+Concurrent GList Multiple Insert 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.26 bytes
+Concurrent GSet Multiple Insert 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 250 Avg Memory Usage: Physical: 4.03 bytes, Virtual: 66.96 bytes
+Concurrent GCounter Multiple Increment 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 250 Avg Memory Usage: Physical: 2.69 bytes, Virtual: 2.24 bytes
+Concurrent List Multiple Insert 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Insert 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 300 Avg Memory Usage: Physical: 1.57 bytes, Virtual: 4.03 bytes
+Concurrent GCounter Multiple Increment 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 300 Avg Memory Usage: Physical: 1.34 bytes, Virtual: 0.67 bytes
+Concurrent List Multiple Insert 300 Avg Memory Usage: Physical: 3.86 bytes, Virtual: 287.40 bytes
+Concurrent GList Multiple Insert 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 350 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.22 bytes
+Concurrent GCounter Multiple Increment 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 350 Avg Memory Usage: Physical: 0.34 bytes, Virtual: 0.34 bytes
+Concurrent Map Multiple Insert 350 Avg Memory Usage: Physical: 2.02 bytes, Virtual: 1.79 bytes
+Concurrent List Multiple Insert 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Insert 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 25.09 bytes
+Concurrent GSet Multiple Insert 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 400 Avg Memory Usage: Physical: 1.12 bytes, Virtual: 0.45 bytes
+Concurrent GCounter Multiple Increment 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 400 Avg Memory Usage: Physical: 9.41 bytes, Virtual: 27.99 bytes
+Concurrent List Multiple Insert 400 Avg Memory Usage: Physical: 20.27 bytes, Virtual: 16.58 bytes
+Concurrent GList Multiple Insert 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 450 Avg Memory Usage: Physical: 3.58 bytes, Virtual: 2.46 bytes
+Concurrent GCounter Multiple Increment 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 450 Avg Memory Usage: Physical: 3.14 bytes, Virtual: 2.91 bytes
+Concurrent List Multiple Insert 450 Avg Memory Usage: Physical: 52.64 bytes, Virtual: 255.11 bytes
+Concurrent GList Multiple Insert 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.18 bytes
+Concurrent GSet Multiple Insert 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 500 Avg Memory Usage: Physical: 1.79 bytes, Virtual: 1.34 bytes
+Concurrent GCounter Multiple Increment 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 500 Avg Memory Usage: Physical: 0.70 bytes, Virtual: 0.70 bytes
+Concurrent Map Multiple Insert 500 Avg Memory Usage: Physical: 1.12 bytes, Virtual: 0.45 bytes
+Concurrent List Multiple Insert 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Insert 500 Avg Memory Usage: Physical: 0.90 bytes, Virtual: 8.51 bytes
+Concurrent GSet Multiple Insert 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 550 Avg Memory Usage: Physical: 1.79 bytes, Virtual: 0.90 bytes
+Concurrent GCounter Multiple Increment 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 550 Avg Memory Usage: Physical: 3.58 bytes, Virtual: 3.36 bytes
+Concurrent List Multiple Insert 550 Avg Memory Usage: Physical: 71.86 bytes, Virtual: 340.55 bytes
+Concurrent GList Multiple Insert 550 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 600 Avg Memory Usage: Physical: 8.96 bytes, Virtual: 8.96 bytes
+Concurrent GCounter Multiple Increment 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 600 Avg Memory Usage: Physical: 1.58 bytes, Virtual: 1.58 bytes
+Concurrent Map Multiple Insert 600 Avg Memory Usage: Physical: 5.48 bytes, Virtual: 4.62 bytes
+Concurrent List Multiple Insert 600 Avg Memory Usage: Physical: 68.74 bytes, Virtual: 37.49 bytes
+Concurrent GList Multiple Insert 600 Avg Memory Usage: Physical: 1.12 bytes, Virtual: 0.90 bytes
+Concurrent GSet Multiple Insert 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 650 Avg Memory Usage: Physical: 4.33 bytes, Virtual: 3.46 bytes
+Concurrent GCounter Multiple Increment 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 650 Avg Memory Usage: Physical: 7.21 bytes, Virtual: 4.62 bytes
+Concurrent List Multiple Insert 650 Avg Memory Usage: Physical: 10.15 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Insert 650 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 700 Avg Memory Usage: Physical: 13.27 bytes, Virtual: 41.26 bytes
+Concurrent GCounter Multiple Increment 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 700 Avg Memory Usage: Physical: 7.21 bytes, Virtual: 3.75 bytes
+Concurrent List Multiple Insert 700 Avg Memory Usage: Physical: 145.85 bytes, Virtual: 117.49 bytes
+Concurrent GList Multiple Insert 700 Avg Memory Usage: Physical: 0.90 bytes, Virtual: 1.34 bytes
+Concurrent GSet Multiple Insert 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 750 Avg Memory Usage: Physical: 3.46 bytes, Virtual: 1.44 bytes
+Concurrent GCounter Multiple Increment 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 750 Avg Memory Usage: Physical: 4.33 bytes, Virtual: 3.17 bytes
+Concurrent List Multiple Insert 750 Avg Memory Usage: Physical: 152.20 bytes, Virtual: 426.17 bytes
+Concurrent GList Multiple Insert 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 800 Avg Memory Usage: Physical: 6.35 bytes, Virtual: 3.75 bytes
+Concurrent GCounter Multiple Increment 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 800 Avg Memory Usage: Physical: 3.17 bytes, Virtual: 2.02 bytes
+Concurrent List Multiple Insert 800 Avg Memory Usage: Physical: 92.17 bytes, Virtual: 70.05 bytes
+Concurrent GList Multiple Insert 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 850 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.11 bytes
+Concurrent Orswot Multiple Insert 850 Avg Memory Usage: Physical: 5.37 bytes, Virtual: 3.14 bytes
+Concurrent GCounter Multiple Increment 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 850 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 850 Avg Memory Usage: Physical: 1.44 bytes, Virtual: 1.15 bytes
+Concurrent List Multiple Insert 850 Avg Memory Usage: Physical: 88.48 bytes, Virtual: 36.87 bytes
+Concurrent GList Multiple Insert 850 Avg Memory Usage: Physical: 1.12 bytes, Virtual: 2.02 bytes
+Concurrent GSet Multiple Insert 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 900 Avg Memory Usage: Physical: 8.51 bytes, Virtual: 5.37 bytes
+Concurrent GCounter Multiple Increment 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 900 Avg Memory Usage: Physical: 4.62 bytes, Virtual: 2.60 bytes
+Concurrent List Multiple Insert 900 Avg Memory Usage: Physical: 306.00 bytes, Virtual: 1021.23 bytes
+Concurrent GList Multiple Insert 900 Avg Memory Usage: Physical: 2.02 bytes, Virtual: 2.02 bytes
+Concurrent GSet Multiple Insert 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 950 Avg Memory Usage: Physical: 4.03 bytes, Virtual: 2.69 bytes
+Concurrent GCounter Multiple Increment 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Increment 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 950 Avg Memory Usage: Physical: 7.21 bytes, Virtual: 4.91 bytes
+Concurrent List Multiple Insert 950 Avg Memory Usage: Physical: 265.45 bytes, Virtual: 954.87 bytes
+Concurrent GList Multiple Insert 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Insert 1000 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Insert 1000 Avg Memory Usage: Physical: 11.65 bytes, Virtual: 8.51 bytes
+Concurrent GCounter Multiple Increment 1000 Avg Memory Usage: Physical: 0.56 bytes, Virtual: 0.56 bytes
+Concurrent PNCounter Multiple Increment 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Set 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Set 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Insert 1000 Avg Memory Usage: Physical: 2.60 bytes, Virtual: 2.02 bytes
+Concurrent List Multiple Insert 1000 Avg Memory Usage: Physical: 62.68 bytes, Virtual: 47.93 bytes
+Concurrent GList Multiple Insert 1000 Avg Memory Usage: Physical: 2.31 bytes, Virtual: 2.31 bytes
+LWWReg Update Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Update Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Update Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Update (Re-insert) Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 50 Avg Memory Usage: Physical: 0.01 bytes, Virtual: 0.00 bytes
+Map Multiple Update 50 Avg Memory Usage: Physical: 0.02 bytes, Virtual: 0.00 bytes
+Orswot Multiple Update (Re-insert) 50 Avg Memory Usage: Physical: 0.07 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 50 Avg Memory Usage: Physical: 0.59 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 100 Avg Memory Usage: Physical: 0.06 bytes, Virtual: 0.00 bytes
+Orswot Multiple Update (Re-insert) 100 Avg Memory Usage: Physical: 0.05 bytes, Virtual: 0.05 bytes
+List Multiple Update (Replace) 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 150 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.28 bytes
+Orswot Multiple Update (Re-insert) 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 150 Avg Memory Usage: Physical: 0.58 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 200 Avg Memory Usage: Physical: 0.32 bytes, Virtual: 0.32 bytes
+Orswot Multiple Update (Re-insert) 200 Avg Memory Usage: Physical: 0.09 bytes, Virtual: 0.09 bytes
+List Multiple Update (Replace) 200 Avg Memory Usage: Physical: 1.79 bytes, Virtual: 0.90 bytes
+LWWReg Multiple Update 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 250 Avg Memory Usage: Physical: 2.26 bytes, Virtual: 2.36 bytes
+Orswot Multiple Update (Re-insert) 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 250 Avg Memory Usage: Physical: 0.58 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 300 Avg Memory Usage: Physical: 0.39 bytes, Virtual: 0.39 bytes
+Orswot Multiple Update (Re-insert) 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 350 Avg Memory Usage: Physical: 3.14 bytes, Virtual: 3.25 bytes
+Orswot Multiple Update (Re-insert) 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 400 Avg Memory Usage: Physical: 0.34 bytes, Virtual: 0.45 bytes
+Orswot Multiple Update (Re-insert) 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 400 Avg Memory Usage: Physical: 45.46 bytes, Virtual: 51.95 bytes
+LWWReg Multiple Update 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 450 Avg Memory Usage: Physical: 0.65 bytes, Virtual: 0.00 bytes
+Orswot Multiple Update (Re-insert) 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 500 Avg Memory Usage: Physical: 3.16 bytes, Virtual: 3.33 bytes
+Orswot Multiple Update (Re-insert) 500 Avg Memory Usage: Physical: 6.27 bytes, Virtual: 6.49 bytes
+List Multiple Update (Replace) 500 Avg Memory Usage: Physical: 64.79 bytes, Virtual: 76.94 bytes
+LWWReg Multiple Update 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 550 Avg Memory Usage: Physical: 2.11 bytes, Virtual: 1.40 bytes
+Orswot Multiple Update (Re-insert) 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 550 Avg Memory Usage: Physical: 2.13 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Update (Re-insert) 600 Avg Memory Usage: Physical: 5.37 bytes, Virtual: 6.05 bytes
+List Multiple Update (Replace) 600 Avg Memory Usage: Physical: 55.16 bytes, Virtual: 52.25 bytes
+LWWReg Multiple Update 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 650 Avg Memory Usage: Physical: 10.88 bytes, Virtual: 13.34 bytes
+Orswot Multiple Update (Re-insert) 650 Avg Memory Usage: Physical: 0.67 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 700 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Orswot Multiple Update (Re-insert) 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 700 Avg Memory Usage: Physical: 3.38 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 750 Avg Memory Usage: Physical: 8.51 bytes, Virtual: 7.84 bytes
+Orswot Multiple Update (Re-insert) 750 Avg Memory Usage: Physical: 6.94 bytes, Virtual: 6.94 bytes
+List Multiple Update (Replace) 750 Avg Memory Usage: Physical: 44.24 bytes, Virtual: 47.93 bytes
+LWWReg Multiple Update 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 800 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Orswot Multiple Update (Re-insert) 800 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 800 Avg Memory Usage: Physical: 4.05 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 850 Avg Memory Usage: Physical: 17.24 bytes, Virtual: 21.27 bytes
+Orswot Multiple Update (Re-insert) 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Update 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 900 Avg Memory Usage: Physical: 15.45 bytes, Virtual: 21.72 bytes
+Orswot Multiple Update (Re-insert) 900 Avg Memory Usage: Physical: 14.72 bytes, Virtual: 15.00 bytes
+List Multiple Update (Replace) 900 Avg Memory Usage: Physical: 121.54 bytes, Virtual: 97.23 bytes
+LWWReg Multiple Update 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 950 Avg Memory Usage: Physical: 0.67 bytes, Virtual: 0.00 bytes
+Orswot Multiple Update (Re-insert) 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 6.25 bytes
+LWWReg Multiple Update 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Update 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Update 1000 Avg Memory Usage: Physical: 9.18 bytes, Virtual: 7.84 bytes
+Orswot Multiple Update (Re-insert) 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Update (Replace) 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Update Avg Memory Usage: Physical: 0.13 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Update Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent Map Update Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Update Avg Memory Usage: Physical: 0.67 bytes, Virtual: 0.00 bytes
+GSet Concurrent Update 50 Avg Memory Usage: Physical: 6193.21 bytes, Virtual: 16460.25 bytes
+Orswot Concurrent Update 50 Avg Memory Usage: Physical: 9723.23 bytes, Virtual: 29793.44 bytes
+GCounter Concurrent Update 50 Avg Memory Usage: Physical: 7612.02 bytes, Virtual: 20388.41 bytes
+PNCounter Concurrent Update 50 Avg Memory Usage: Physical: 7341.25 bytes, Virtual: 19660.84 bytes
+LWWReg Concurrent Update 50 Avg Memory Usage: Physical: 8459.71 bytes, Virtual: 23256.05 bytes
+MVReg Concurrent Update 50 Avg Memory Usage: Physical: 9650.00 bytes, Virtual: 29849.64 bytes
+Map Concurrent Update 50 Avg Memory Usage: Physical: 10673.81 bytes, Virtual: 31965.89 bytes
+List Concurrent Update 50 Avg Memory Usage: Physical: 766.17 bytes, Virtual: 756.17 bytes
+GList Concurrent Update 50 Avg Memory Usage: Physical: 4876.06 bytes, Virtual: 15836.61 bytes
+GSet Concurrent Update 100 Avg Memory Usage: Physical: 6703.65 bytes, Virtual: 17824.42 bytes
+Orswot Concurrent Update 100 Avg Memory Usage: Physical: 5964.91 bytes, Virtual: 19470.53 bytes
+GCounter Concurrent Update 100 Avg Memory Usage: Physical: 6838.91 bytes, Virtual: 17891.04 bytes
+PNCounter Concurrent Update 100 Avg Memory Usage: Physical: 5893.03 bytes, Virtual: 15240.06 bytes
+LWWReg Concurrent Update 100 Avg Memory Usage: Physical: 7783.44 bytes, Virtual: 21140.93 bytes
+MVReg Concurrent Update 100 Avg Memory Usage: Physical: 5403.07 bytes, Virtual: 17655.58 bytes
+Map Concurrent Update 100 Avg Memory Usage: Physical: 5896.95 bytes, Virtual: 17412.95 bytes
+List Concurrent Update 100 Avg Memory Usage: Physical: 3555.84 bytes, Virtual: 4761.57 bytes
+GList Concurrent Update 100 Avg Memory Usage: Physical: 3383.35 bytes, Virtual: 3128.73 bytes
+GSet Concurrent Update 150 Avg Memory Usage: Physical: 7455.27 bytes, Virtual: 19352.07 bytes
+Orswot Concurrent Update 150 Avg Memory Usage: Physical: 3384.04 bytes, Virtual: 4009.10 bytes
+GCounter Concurrent Update 150 Avg Memory Usage: Physical: 5371.05 bytes, Virtual: 13826.95 bytes
+PNCounter Concurrent Update 150 Avg Memory Usage: Physical: 5459.50 bytes, Virtual: 14170.35 bytes
+LWWReg Concurrent Update 150 Avg Memory Usage: Physical: 7832.82 bytes, Virtual: 21269.91 bytes
+MVReg Concurrent Update 150 Avg Memory Usage: Physical: 5121.60 bytes, Virtual: 16541.76 bytes
+Map Concurrent Update 150 Avg Memory Usage: Physical: 5511.23 bytes, Virtual: 18639.64 bytes
+List Concurrent Update 150 Avg Memory Usage: Physical: 1929.97 bytes, Virtual: 11291.85 bytes
+GList Concurrent Update 150 Avg Memory Usage: Physical: 1297.89 bytes, Virtual: 13525.70 bytes
+GSet Concurrent Update 200 Avg Memory Usage: Physical: 6481.63 bytes, Virtual: 15444.84 bytes
+Orswot Concurrent Update 200 Avg Memory Usage: Physical: 1827.63 bytes, Virtual: 4498.68 bytes
+GCounter Concurrent Update 200 Avg Memory Usage: Physical: 5919.46 bytes, Virtual: 15637.53 bytes
+PNCounter Concurrent Update 200 Avg Memory Usage: Physical: 5321.34 bytes, Virtual: 13825.27 bytes
+LWWReg Concurrent Update 200 Avg Memory Usage: Physical: 7367.27 bytes, Virtual: 19886.03 bytes
+MVReg Concurrent Update 200 Avg Memory Usage: Physical: 5483.13 bytes, Virtual: 21073.64 bytes
+Map Concurrent Update 200 Avg Memory Usage: Physical: 5445.06 bytes, Virtual: 14739.58 bytes
+List Concurrent Update 200 Avg Memory Usage: Physical: 952.17 bytes, Virtual: 3268.68 bytes
+GList Concurrent Update 200 Avg Memory Usage: Physical: 802.36 bytes, Virtual: 4006.87 bytes
+GSet Concurrent Update 250 Avg Memory Usage: Physical: 8168.94 bytes, Virtual: 24768.02 bytes
+Orswot Concurrent Update 250 Avg Memory Usage: Physical: 1869.97 bytes, Virtual: 14821.83 bytes
+GCounter Concurrent Update 250 Avg Memory Usage: Physical: 5745.46 bytes, Virtual: 15041.88 bytes
+PNCounter Concurrent Update 250 Avg Memory Usage: Physical: 5533.29 bytes, Virtual: 14526.51 bytes
+LWWReg Concurrent Update 250 Avg Memory Usage: Physical: 7369.62 bytes, Virtual: 19734.32 bytes
+MVReg Concurrent Update 250 Avg Memory Usage: Physical: 4579.24 bytes, Virtual: 14044.28 bytes
+Map Concurrent Update 250 Avg Memory Usage: Physical: 4156.80 bytes, Virtual: 11234.08 bytes
+List Concurrent Update 250 Avg Memory Usage: Physical: 142.00 bytes, Virtual: 481.78 bytes
+GList Concurrent Update 250 Avg Memory Usage: Physical: 149.47 bytes, Virtual: 529.78 bytes
+GSet Concurrent Update 300 Avg Memory Usage: Physical: 9268.20 bytes, Virtual: 28355.70 bytes
+Orswot Concurrent Update 300 Avg Memory Usage: Physical: 3311.11 bytes, Virtual: 9851.58 bytes
+GCounter Concurrent Update 300 Avg Memory Usage: Physical: 6004.77 bytes, Virtual: 15895.05 bytes
+PNCounter Concurrent Update 300 Avg Memory Usage: Physical: 6304.05 bytes, Virtual: 16589.90 bytes
+LWWReg Concurrent Update 300 Avg Memory Usage: Physical: 6937.44 bytes, Virtual: 18449.86 bytes
+MVReg Concurrent Update 300 Avg Memory Usage: Physical: 2326.18 bytes, Virtual: 5600.80 bytes
+Map Concurrent Update 300 Avg Memory Usage: Physical: 3096.06 bytes, Virtual: 13182.59 bytes
+List Concurrent Update 300 Avg Memory Usage: Physical: 101.60 bytes, Virtual: 342.54 bytes
+GList Concurrent Update 300 Avg Memory Usage: Physical: 71.85 bytes, Virtual: 249.31 bytes
+GSet Concurrent Update 350 Avg Memory Usage: Physical: 8548.61 bytes, Virtual: 26131.30 bytes
+Orswot Concurrent Update 350 Avg Memory Usage: Physical: 1431.17 bytes, Virtual: 4857.60 bytes
+GCounter Concurrent Update 350 Avg Memory Usage: Physical: 8948.77 bytes, Virtual: 25384.86 bytes
+PNCounter Concurrent Update 350 Avg Memory Usage: Physical: 8010.62 bytes, Virtual: 21967.67 bytes
+LWWReg Concurrent Update 350 Avg Memory Usage: Physical: 6556.76 bytes, Virtual: 17290.35 bytes
+MVReg Concurrent Update 350 Avg Memory Usage: Physical: 1460.35 bytes, Virtual: 3374.95 bytes
+Map Concurrent Update 350 Avg Memory Usage: Physical: 3201.20 bytes, Virtual: 13499.90 bytes
+List Concurrent Update 350 Avg Memory Usage: Physical: 55.30 bytes, Virtual: 151.16 bytes
+GList Concurrent Update 350 Avg Memory Usage: Physical: 38.95 bytes, Virtual: 135.62 bytes
+GSet Concurrent Update 400 Avg Memory Usage: Physical: 7007.30 bytes, Virtual: 20526.13 bytes
+Orswot Concurrent Update 400 Avg Memory Usage: Physical: 353.59 bytes, Virtual: 1226.05 bytes
+GCounter Concurrent Update 400 Avg Memory Usage: Physical: 7497.04 bytes, Virtual: 20648.62 bytes
+PNCounter Concurrent Update 400 Avg Memory Usage: Physical: 8749.36 bytes, Virtual: 24912.68 bytes
+LWWReg Concurrent Update 400 Avg Memory Usage: Physical: 7808.07 bytes, Virtual: 21099.84 bytes
+MVReg Concurrent Update 400 Avg Memory Usage: Physical: 1324.65 bytes, Virtual: 3100.41 bytes
+Map Concurrent Update 400 Avg Memory Usage: Physical: 2648.07 bytes, Virtual: 7796.11 bytes
+List Concurrent Update 400 Avg Memory Usage: Physical: 36.46 bytes, Virtual: 295.75 bytes
+GList Concurrent Update 400 Avg Memory Usage: Physical: 25.98 bytes, Virtual: 100.78 bytes
+GSet Concurrent Update 450 Avg Memory Usage: Physical: 6106.55 bytes, Virtual: 17926.20 bytes
+Orswot Concurrent Update 450 Avg Memory Usage: Physical: 158.32 bytes, Virtual: 540.36 bytes
+GCounter Concurrent Update 450 Avg Memory Usage: Physical: 8165.69 bytes, Virtual: 22772.03 bytes
+PNCounter Concurrent Update 450 Avg Memory Usage: Physical: 9825.56 bytes, Virtual: 29619.00 bytes
+LWWReg Concurrent Update 450 Avg Memory Usage: Physical: 6390.38 bytes, Virtual: 16741.84 bytes
+MVReg Concurrent Update 450 Avg Memory Usage: Physical: 1585.90 bytes, Virtual: 4086.91 bytes
+Map Concurrent Update 450 Avg Memory Usage: Physical: 1111.17 bytes, Virtual: 4544.89 bytes
+List Concurrent Update 450 Avg Memory Usage: Physical: 175.10 bytes, Virtual: 93.80 bytes
+GList Concurrent Update 450 Avg Memory Usage: Physical: 18.81 bytes, Virtual: 66.29 bytes
+GSet Concurrent Update 500 Avg Memory Usage: Physical: 5719.04 bytes, Virtual: 16858.39 bytes
+Orswot Concurrent Update 500 Avg Memory Usage: Physical: 77.33 bytes, Virtual: 268.64 bytes
+GCounter Concurrent Update 500 Avg Memory Usage: Physical: 9584.73 bytes, Virtual: 28475.95 bytes
+PNCounter Concurrent Update 500 Avg Memory Usage: Physical: 10641.23 bytes, Virtual: 33014.77 bytes
+LWWReg Concurrent Update 500 Avg Memory Usage: Physical: 6291.96 bytes, Virtual: 16492.27 bytes
+MVReg Concurrent Update 500 Avg Memory Usage: Physical: 1790.12 bytes, Virtual: 4844.80 bytes
+Map Concurrent Update 500 Avg Memory Usage: Physical: 869.76 bytes, Virtual: 3247.51 bytes
+List Concurrent Update 500 Avg Memory Usage: Physical: 12.51 bytes, Virtual: 6.25 bytes
+GList Concurrent Update 500 Avg Memory Usage: Physical: 18.47 bytes, Virtual: 70.41 bytes
+GSet Concurrent Update 550 Avg Memory Usage: Physical: 5616.14 bytes, Virtual: 18681.07 bytes
+Orswot Concurrent Update 550 Avg Memory Usage: Physical: 66.08 bytes, Virtual: 209.20 bytes
+GCounter Concurrent Update 550 Avg Memory Usage: Physical: 10058.79 bytes, Virtual: 30856.20 bytes
+PNCounter Concurrent Update 550 Avg Memory Usage: Physical: 11035.68 bytes, Virtual: 34449.48 bytes
+LWWReg Concurrent Update 550 Avg Memory Usage: Physical: 6401.46 bytes, Virtual: 16887.50 bytes
+MVReg Concurrent Update 550 Avg Memory Usage: Physical: 1565.15 bytes, Virtual: 4043.71 bytes
+Map Concurrent Update 550 Avg Memory Usage: Physical: 535.21 bytes, Virtual: 1875.23 bytes
+List Concurrent Update 550 Avg Memory Usage: Physical: 51.66 bytes, Virtual: 0.00 bytes
+GList Concurrent Update 550 Avg Memory Usage: Physical: 12.70 bytes, Virtual: 156.98 bytes
+GSet Concurrent Update 600 Avg Memory Usage: Physical: 4992.05 bytes, Virtual: 18733.35 bytes
+Orswot Concurrent Update 600 Avg Memory Usage: Physical: 45.30 bytes, Virtual: 141.68 bytes
+GCounter Concurrent Update 600 Avg Memory Usage: Physical: 9547.00 bytes, Virtual: 28692.94 bytes
+PNCounter Concurrent Update 600 Avg Memory Usage: Physical: 8136.80 bytes, Virtual: 24293.18 bytes
+LWWReg Concurrent Update 600 Avg Memory Usage: Physical: 6627.07 bytes, Virtual: 17672.82 bytes
+MVReg Concurrent Update 600 Avg Memory Usage: Physical: 1704.84 bytes, Virtual: 4511.20 bytes
+Map Concurrent Update 600 Avg Memory Usage: Physical: 292.24 bytes, Virtual: 991.36 bytes
+List Concurrent Update 600 Avg Memory Usage: Physical: 59.04 bytes, Virtual: 36.90 bytes
+GList Concurrent Update 600 Avg Memory Usage: Physical: 5.77 bytes, Virtual: 19.62 bytes
+GSet Concurrent Update 650 Avg Memory Usage: Physical: 5037.96 bytes, Virtual: 19271.45 bytes
+Orswot Concurrent Update 650 Avg Memory Usage: Physical: 22.39 bytes, Virtual: 72.56 bytes
+GCounter Concurrent Update 650 Avg Memory Usage: Physical: 10116.78 bytes, Virtual: 30992.91 bytes
+PNCounter Concurrent Update 650 Avg Memory Usage: Physical: 6839.47 bytes, Virtual: 20524.56 bytes
+LWWReg Concurrent Update 650 Avg Memory Usage: Physical: 7378.24 bytes, Virtual: 20146.68 bytes
+MVReg Concurrent Update 650 Avg Memory Usage: Physical: 1692.91 bytes, Virtual: 4462.76 bytes
+Map Concurrent Update 650 Avg Memory Usage: Physical: 169.38 bytes, Virtual: 532.67 bytes
+List Concurrent Update 650 Avg Memory Usage: Physical: 7.38 bytes, Virtual: 0.00 bytes
+GList Concurrent Update 650 Avg Memory Usage: Physical: 8.08 bytes, Virtual: 17.31 bytes
+GSet Concurrent Update 700 Avg Memory Usage: Physical: 5878.14 bytes, Virtual: 19998.66 bytes
+Orswot Concurrent Update 700 Avg Memory Usage: Physical: 19.71 bytes, Virtual: 51.96 bytes
+GCounter Concurrent Update 700 Avg Memory Usage: Physical: 8702.11 bytes, Virtual: 25857.99 bytes
+PNCounter Concurrent Update 700 Avg Memory Usage: Physical: 5243.86 bytes, Virtual: 16203.74 bytes
+LWWReg Concurrent Update 700 Avg Memory Usage: Physical: 6296.78 bytes, Virtual: 16634.13 bytes
+MVReg Concurrent Update 700 Avg Memory Usage: Physical: 1738.63 bytes, Virtual: 4725.03 bytes
+Map Concurrent Update 700 Avg Memory Usage: Physical: 88.01 bytes, Virtual: 303.56 bytes
+List Concurrent Update 700 Avg Memory Usage: Physical: 51.66 bytes, Virtual: 14.76 bytes
+GList Concurrent Update 700 Avg Memory Usage: Physical: 10.39 bytes, Virtual: 64.06 bytes
+GSet Concurrent Update 750 Avg Memory Usage: Physical: 5674.81 bytes, Virtual: 18743.21 bytes
+Orswot Concurrent Update 750 Avg Memory Usage: Physical: 15.68 bytes, Virtual: 34.04 bytes
+GCounter Concurrent Update 750 Avg Memory Usage: Physical: 6636.36 bytes, Virtual: 18920.22 bytes
+PNCounter Concurrent Update 750 Avg Memory Usage: Physical: 5609.20 bytes, Virtual: 17268.18 bytes
+LWWReg Concurrent Update 750 Avg Memory Usage: Physical: 6116.18 bytes, Virtual: 16137.90 bytes
+MVReg Concurrent Update 750 Avg Memory Usage: Physical: 1578.97 bytes, Virtual: 4022.10 bytes
+Map Concurrent Update 750 Avg Memory Usage: Physical: 89.74 bytes, Virtual: 290.00 bytes
+List Concurrent Update 750 Avg Memory Usage: Physical: 62.63 bytes, Virtual: 25.05 bytes
+GList Concurrent Update 750 Avg Memory Usage: Physical: 21.18 bytes, Virtual: 41.45 bytes
+GSet Concurrent Update 800 Avg Memory Usage: Physical: 6276.56 bytes, Virtual: 18749.92 bytes
+Orswot Concurrent Update 800 Avg Memory Usage: Physical: 31.80 bytes, Virtual: 91.37 bytes
+GCounter Concurrent Update 800 Avg Memory Usage: Physical: 5953.60 bytes, Virtual: 17281.28 bytes
+PNCounter Concurrent Update 800 Avg Memory Usage: Physical: 7293.25 bytes, Virtual: 22747.33 bytes
+LWWReg Concurrent Update 800 Avg Memory Usage: Physical: 7058.58 bytes, Virtual: 19213.46 bytes
+MVReg Concurrent Update 800 Avg Memory Usage: Physical: 1641.89 bytes, Virtual: 4264.85 bytes
+Map Concurrent Update 800 Avg Memory Usage: Physical: 31.16 bytes, Virtual: 126.10 bytes
+List Concurrent Update 800 Avg Memory Usage: Physical: 50.10 bytes, Virtual: 25.05 bytes
+GList Concurrent Update 800 Avg Memory Usage: Physical: 0.94 bytes, Virtual: 2.83 bytes
+GSet Concurrent Update 850 Avg Memory Usage: Physical: 6135.77 bytes, Virtual: 17933.25 bytes
+Orswot Concurrent Update 850 Avg Memory Usage: Physical: 34.94 bytes, Virtual: 82.41 bytes
+GCounter Concurrent Update 850 Avg Memory Usage: Physical: 5866.16 bytes, Virtual: 17193.06 bytes
+PNCounter Concurrent Update 850 Avg Memory Usage: Physical: 6318.50 bytes, Virtual: 20517.84 bytes
+LWWReg Concurrent Update 850 Avg Memory Usage: Physical: 6414.45 bytes, Virtual: 17072.58 bytes
+MVReg Concurrent Update 850 Avg Memory Usage: Physical: 1625.55 bytes, Virtual: 4209.76 bytes
+Map Concurrent Update 850 Avg Memory Usage: Physical: 45.30 bytes, Virtual: 158.42 bytes
+List Concurrent Update 850 Avg Memory Usage: Physical: 751.56 bytes, Virtual: 1878.90 bytes
+GList Concurrent Update 850 Avg Memory Usage: Physical: 11.13 bytes, Virtual: 11.13 bytes
+GSet Concurrent Update 900 Avg Memory Usage: Physical: 6124.46 bytes, Virtual: 17421.13 bytes
+Orswot Concurrent Update 900 Avg Memory Usage: Physical: 30.46 bytes, Virtual: 41.65 bytes
+GCounter Concurrent Update 900 Avg Memory Usage: Physical: 5515.49 bytes, Virtual: 18464.86 bytes
+PNCounter Concurrent Update 900 Avg Memory Usage: Physical: 5959.31 bytes, Virtual: 19092.87 bytes
+LWWReg Concurrent Update 900 Avg Memory Usage: Physical: 5556.24 bytes, Virtual: 14512.51 bytes
+MVReg Concurrent Update 900 Avg Memory Usage: Physical: 1651.97 bytes, Virtual: 4256.79 bytes
+Map Concurrent Update 900 Avg Memory Usage: Physical: 31.45 bytes, Virtual: 110.23 bytes
+List Concurrent Update 900 Avg Memory Usage: Physical: 801.66 bytes, Virtual: 1390.39 bytes
+GList Concurrent Update 900 Avg Memory Usage: Physical: 22.27 bytes, Virtual: 44.53 bytes
+GSet Concurrent Update 950 Avg Memory Usage: Physical: 6013.28 bytes, Virtual: 16495.07 bytes
+Orswot Concurrent Update 950 Avg Memory Usage: Physical: 16.57 bytes, Virtual: 38.52 bytes
+GCounter Concurrent Update 950 Avg Memory Usage: Physical: 6075.98 bytes, Virtual: 20305.90 bytes
+PNCounter Concurrent Update 950 Avg Memory Usage: Physical: 5796.97 bytes, Virtual: 18237.01 bytes
+LWWReg Concurrent Update 950 Avg Memory Usage: Physical: 5604.16 bytes, Virtual: 14635.11 bytes
+MVReg Concurrent Update 950 Avg Memory Usage: Physical: 1716.02 bytes, Virtual: 4568.36 bytes
+Map Concurrent Update 950 Avg Memory Usage: Physical: 34.63 bytes, Virtual: 120.90 bytes
+List Concurrent Update 950 Avg Memory Usage: Physical: 54.13 bytes, Virtual: 0.00 bytes
+GList Concurrent Update 950 Avg Memory Usage: Physical: 15.18 bytes, Virtual: 21.25 bytes
+GSet Concurrent Update 1000 Avg Memory Usage: Physical: 5806.37 bytes, Virtual: 15798.20 bytes
+Orswot Concurrent Update 1000 Avg Memory Usage: Physical: 10.75 bytes, Virtual: 4.93 bytes
+GCounter Concurrent Update 1000 Avg Memory Usage: Physical: 5194.26 bytes, Virtual: 18214.40 bytes
+PNCounter Concurrent Update 1000 Avg Memory Usage: Physical: 5356.61 bytes, Virtual: 16297.12 bytes
+LWWReg Concurrent Update 1000 Avg Memory Usage: Physical: 5464.32 bytes, Virtual: 14193.86 bytes
+MVReg Concurrent Update 1000 Avg Memory Usage: Physical: 1645.03 bytes, Virtual: 4294.85 bytes
+Map Concurrent Update 1000 Avg Memory Usage: Physical: 18.18 bytes, Virtual: 66.08 bytes
+List Concurrent Update 1000 Avg Memory Usage: Physical: 87.68 bytes, Virtual: 25.05 bytes
+GList Concurrent Update 1000 Avg Memory Usage: Physical: 17.64 bytes, Virtual: 41.51 bytes
+Orswot Remove Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Decrement Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Remove Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Remove Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 50 Avg Memory Usage: Physical: 0.06 bytes, Virtual: 0.00 bytes
+List Multiple Remove 50 Avg Memory Usage: Physical: 0.05 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Remove 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 150 Avg Memory Usage: Physical: 0.39 bytes, Virtual: 0.39 bytes
+List Multiple Remove 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Remove 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 250 Avg Memory Usage: Physical: 1.90 bytes, Virtual: 1.90 bytes
+List Multiple Remove 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.13 bytes
+List Multiple Remove 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 350 Avg Memory Usage: Physical: 0.88 bytes, Virtual: 0.70 bytes
+List Multiple Remove 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 400 Avg Memory Usage: Physical: 2.24 bytes, Virtual: 2.46 bytes
+Map Multiple Remove 400 Avg Memory Usage: Physical: 3.16 bytes, Virtual: 4.39 bytes
+List Multiple Remove 400 Avg Memory Usage: Physical: 2.31 bytes, Virtual: 2.31 bytes
+Orswot Multiple Remove 450 Avg Memory Usage: Physical: 0.90 bytes, Virtual: 0.45 bytes
+Map Multiple Remove 450 Avg Memory Usage: Physical: 1.57 bytes, Virtual: 2.02 bytes
+List Multiple Remove 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 500 Avg Memory Usage: Physical: 10.52 bytes, Virtual: 9.41 bytes
+List Multiple Remove 500 Avg Memory Usage: Physical: 7.72 bytes, Virtual: 7.72 bytes
+Orswot Multiple Remove 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 550 Avg Memory Usage: Physical: 6.72 bytes, Virtual: 6.49 bytes
+List Multiple Remove 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 600 Avg Memory Usage: Physical: 14.78 bytes, Virtual: 15.68 bytes
+List Multiple Remove 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 650 Avg Memory Usage: Physical: 1.12 bytes, Virtual: 0.00 bytes
+List Multiple Remove 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 700 Avg Memory Usage: Physical: 5.19 bytes, Virtual: 6.06 bytes
+Map Multiple Remove 700 Avg Memory Usage: Physical: 10.39 bytes, Virtual: 8.95 bytes
+List Multiple Remove 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 750 Avg Memory Usage: Physical: 26.26 bytes, Virtual: 37.51 bytes
+List Multiple Remove 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 1.79 bytes
+Map Multiple Remove 800 Avg Memory Usage: Physical: 25.10 bytes, Virtual: 25.97 bytes
+List Multiple Remove 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 850 Avg Memory Usage: Physical: 25.39 bytes, Virtual: 25.68 bytes
+List Multiple Remove 850 Avg Memory Usage: Physical: 30.37 bytes, Virtual: 30.37 bytes
+Orswot Multiple Remove 900 Avg Memory Usage: Physical: 18.36 bytes, Virtual: 18.81 bytes
+Map Multiple Remove 900 Avg Memory Usage: Physical: 8.37 bytes, Virtual: 6.35 bytes
+List Multiple Remove 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 950 Avg Memory Usage: Physical: 12.41 bytes, Virtual: 10.39 bytes
+List Multiple Remove 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Remove 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Remove 1000 Avg Memory Usage: Physical: 52.85 bytes, Virtual: 55.09 bytes
+List Multiple Remove 1000 Avg Memory Usage: Physical: 9.37 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 50 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 50 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 50 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 50 Avg Memory Usage: Physical: 0.34 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 200 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 350 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.22 bytes
+Concurrent List Remove Multiple 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 400 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.11 bytes
+Concurrent List Remove Multiple 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 550 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 2.35 bytes
+Concurrent List Remove Multiple 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 700 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 750 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.18 bytes
+Concurrent List Remove Multiple 750 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.34 bytes
+Concurrent Orswot Remove Multiple 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.18 bytes
+Concurrent List Remove Multiple 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 850 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.18 bytes
+Concurrent List Remove Multiple 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 900 Avg Memory Usage: Physical: 0.53 bytes, Virtual: 10.88 bytes
+Concurrent List Remove Multiple 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 950 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 1000 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 4.59 bytes
+GSet Single Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Single Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Single Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Single Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Single Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Single Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Single Merge Avg Memory Usage: Physical: 0.01 bytes, Virtual: 0.00 bytes
+GList Single Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 50 Avg Memory Usage: Physical: 0.01 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 50 Avg Memory Usage: Physical: 0.20 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 50 Avg Memory Usage: Physical: 0.03 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 50 Avg Memory Usage: Physical: 0.67 bytes, Virtual: 0.50 bytes
+GList Multiple Merge 50 Avg Memory Usage: Physical: 0.03 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 100 Avg Memory Usage: Physical: 1.79 bytes, Virtual: 2.24 bytes
+GList Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 150 Avg Memory Usage: Physical: 0.78 bytes, Virtual: 0.78 bytes
+GList Multiple Merge 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 200 Avg Memory Usage: Physical: 2.11 bytes, Virtual: 1.58 bytes
+GList Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 250 Avg Memory Usage: Physical: 0.90 bytes, Virtual: 0.67 bytes
+GCounter Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 250 Avg Memory Usage: Physical: 5.82 bytes, Virtual: 3.36 bytes
+GList Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 300 Avg Memory Usage: Physical: 2.31 bytes, Virtual: 2.60 bytes
+GList Multiple Merge 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 350 Avg Memory Usage: Physical: 9.23 bytes, Virtual: 9.81 bytes
+GList Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 400 Avg Memory Usage: Physical: 0.29 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 400 Avg Memory Usage: Physical: 12.99 bytes, Virtual: 9.41 bytes
+GList Multiple Merge 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 450 Avg Memory Usage: Physical: 2.89 bytes, Virtual: 2.60 bytes
+GCounter Multiple Merge 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 450 Avg Memory Usage: Physical: 6.35 bytes, Virtual: 1.73 bytes
+GList Multiple Merge 450 Avg Memory Usage: Physical: 2.89 bytes, Virtual: 2.89 bytes
+GSet Multiple Merge 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 500 Avg Memory Usage: Physical: 0.29 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 500 Avg Memory Usage: Physical: 10.75 bytes, Virtual: 8.51 bytes
+GList Multiple Merge 500 Avg Memory Usage: Physical: 3.75 bytes, Virtual: 3.75 bytes
+GSet Multiple Merge 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 550 Avg Memory Usage: Physical: 1.79 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 550 Avg Memory Usage: Physical: 11.20 bytes, Virtual: 7.17 bytes
+GList Multiple Merge 550 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+GSet Multiple Merge 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 600 Avg Memory Usage: Physical: 44.34 bytes, Virtual: 49.27 bytes
+GCounter Multiple Merge 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 600 Avg Memory Usage: Physical: 63.15 bytes, Virtual: 69.42 bytes
+GList Multiple Merge 600 Avg Memory Usage: Physical: 6.27 bytes, Virtual: 7.61 bytes
+GSet Multiple Merge 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 650 Avg Memory Usage: Physical: 4.48 bytes, Virtual: 2.69 bytes
+GCounter Multiple Merge 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 650 Avg Memory Usage: Physical: 10.75 bytes, Virtual: 7.17 bytes
+GList Multiple Merge 650 Avg Memory Usage: Physical: 6.72 bytes, Virtual: 7.61 bytes
+GSet Multiple Merge 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 700 Avg Memory Usage: Physical: 52.85 bytes, Virtual: 61.36 bytes
+GCounter Multiple Merge 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 700 Avg Memory Usage: Physical: 7.50 bytes, Virtual: 4.04 bytes
+GList Multiple Merge 700 Avg Memory Usage: Physical: 10.30 bytes, Virtual: 11.20 bytes
+GSet Multiple Merge 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 750 Avg Memory Usage: Physical: 2.69 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 750 Avg Memory Usage: Physical: 17.89 bytes, Virtual: 15.01 bytes
+GList Multiple Merge 750 Avg Memory Usage: Physical: 11.65 bytes, Virtual: 15.23 bytes
+GSet Multiple Merge 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 800 Avg Memory Usage: Physical: 1.79 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 800 Avg Memory Usage: Physical: 21.93 bytes, Virtual: 12.70 bytes
+GList Multiple Merge 800 Avg Memory Usage: Physical: 2.89 bytes, Virtual: 2.89 bytes
+GSet Multiple Merge 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 850 Avg Memory Usage: Physical: 1.34 bytes, Virtual: 0.45 bytes
+GCounter Multiple Merge 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 850 Avg Memory Usage: Physical: 21.35 bytes, Virtual: 20.78 bytes
+GList Multiple Merge 850 Avg Memory Usage: Physical: 18.47 bytes, Virtual: 22.51 bytes
+GSet Multiple Merge 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 900 Avg Memory Usage: Physical: 2.89 bytes, Virtual: 1.73 bytes
+GCounter Multiple Merge 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 900 Avg Memory Usage: Physical: 13.27 bytes, Virtual: 8.66 bytes
+GList Multiple Merge 900 Avg Memory Usage: Physical: 8.66 bytes, Virtual: 8.66 bytes
+GSet Multiple Merge 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 950 Avg Memory Usage: Physical: 1.73 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 950 Avg Memory Usage: Physical: 20.20 bytes, Virtual: 13.27 bytes
+GList Multiple Merge 950 Avg Memory Usage: Physical: 19.05 bytes, Virtual: 22.51 bytes
+GSet Multiple Merge 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Merge 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Merge 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Merge 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Merge 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Merge 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Merge 1000 Avg Memory Usage: Physical: 263.04 bytes, Virtual: 278.35 bytes
+GList Multiple Merge 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Merge Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Merge Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Merge Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Merge Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Merge Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.00 bytes
+Concurrent Map Merge Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent GList Merge Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Merge 50 Avg Memory Usage: Physical: 0.26 bytes, Virtual: 0.13 bytes
+Concurrent Orswot Multiple Merge 50 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Merge 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Merge 50 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 50 Avg Memory Usage: Physical: 0.34 bytes, Virtual: 0.11 bytes
+Concurrent Map Multiple Merge 50 Avg Memory Usage: Physical: 2.73 bytes, Virtual: 2.73 bytes
+Concurrent GList Multiple Merge 50 Avg Memory Usage: Physical: 0.70 bytes, Virtual: 0.35 bytes
+Concurrent GSet Multiple Merge 100 Avg Memory Usage: Physical: 2.02 bytes, Virtual: 2.02 bytes
+Concurrent Orswot Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 1.82 bytes
+Concurrent GCounter Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 100 Avg Memory Usage: Physical: 0.13 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Merge 100 Avg Memory Usage: Physical: 2.63 bytes, Virtual: 2.63 bytes
+Concurrent GList Multiple Merge 100 Avg Memory Usage: Physical: 0.29 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Merge 150 Avg Memory Usage: Physical: 2.91 bytes, Virtual: 2.69 bytes
+Concurrent Orswot Multiple Merge 150 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.18 bytes
+Concurrent GCounter Multiple Merge 150 Avg Memory Usage: Physical: 0.34 bytes, Virtual: 0.34 bytes
+Concurrent PNCounter Multiple Merge 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 150 Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 150 Avg Memory Usage: Physical: 2.28 bytes, Virtual: 2.98 bytes
+Concurrent Map Multiple Merge 150 Avg Memory Usage: Physical: 1.12 bytes, Virtual: 0.22 bytes
+Concurrent GList Multiple Merge 150 Avg Memory Usage: Physical: 47.03 bytes, Virtual: 93.61 bytes
+Concurrent GSet Multiple Merge 200 Avg Memory Usage: Physical: 23.74 bytes, Virtual: 56.88 bytes
+Concurrent Orswot Multiple Merge 200 Avg Memory Usage: Physical: 0.70 bytes, Virtual: 0.70 bytes
+Concurrent GCounter Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 200 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Merge 200 Avg Memory Usage: Physical: 3.81 bytes, Virtual: 2.46 bytes
+Concurrent GList Multiple Merge 200 Avg Memory Usage: Physical: 2728.74 bytes, Virtual: 2705.66 bytes
+Concurrent GSet Multiple Merge 250 Avg Memory Usage: Physical: 62.26 bytes, Virtual: 100.78 bytes
+Concurrent Orswot Multiple Merge 250 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 2.81 bytes
+Concurrent GCounter Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 250 Avg Memory Usage: Physical: 1.12 bytes, Virtual: 1.34 bytes
+Concurrent Map Multiple Merge 250 Avg Memory Usage: Physical: 6.49 bytes, Virtual: 5.82 bytes
+Concurrent GList Multiple Merge 250 Avg Memory Usage: Physical: 13037.10 bytes, Virtual: 12217.30 bytes
+Concurrent GSet Multiple Merge 300 Avg Memory Usage: Physical: 1313.58 bytes, Virtual: 1379.95 bytes
+Concurrent Orswot Multiple Merge 300 Avg Memory Usage: Physical: 2.11 bytes, Virtual: 2.63 bytes
+Concurrent GCounter Multiple Merge 300 Avg Memory Usage: Physical: 0.90 bytes, Virtual: 0.67 bytes
+Concurrent PNCounter Multiple Merge 300 Avg Memory Usage: Physical: 0.52 bytes, Virtual: 0.39 bytes
+Concurrent LWWReg Multiple Merge 300 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.56 bytes
+Concurrent MVReg Multiple Merge 300 Avg Memory Usage: Physical: 2.02 bytes, Virtual: 1.57 bytes
+Concurrent Map Multiple Merge 300 Avg Memory Usage: Physical: 24.53 bytes, Virtual: 50.79 bytes
+Concurrent GList Multiple Merge 300 Avg Memory Usage: Physical: 38043.61 bytes, Virtual: 36800.52 bytes
+Concurrent GSet Multiple Merge 350 Avg Memory Usage: Physical: 3883.23 bytes, Virtual: 4060.08 bytes
+Concurrent Orswot Multiple Merge 350 Avg Memory Usage: Physical: 1.57 bytes, Virtual: 6.05 bytes
+Concurrent GCounter Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Merge 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 350 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 350 Avg Memory Usage: Physical: 7.84 bytes, Virtual: 9.63 bytes
+Concurrent Map Multiple Merge 350 Avg Memory Usage: Physical: 15.00 bytes, Virtual: 11.83 bytes
+Concurrent GList Multiple Merge 350 Avg Memory Usage: Physical: 52853.69 bytes, Virtual: 47755.34 bytes
+Concurrent GSet Multiple Merge 400 Avg Memory Usage: Physical: 12632.12 bytes, Virtual: 12337.59 bytes
+Concurrent Orswot Multiple Merge 400 Avg Memory Usage: Physical: 0.67 bytes, Virtual: 5.82 bytes
+Concurrent GCounter Multiple Merge 400 Avg Memory Usage: Physical: 0.78 bytes, Virtual: 0.78 bytes
+Concurrent PNCounter Multiple Merge 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 400 Avg Memory Usage: Physical: 0.52 bytes, Virtual: 0.39 bytes
+Concurrent MVReg Multiple Merge 400 Avg Memory Usage: Physical: 7.61 bytes, Virtual: 7.84 bytes
+Concurrent Map Multiple Merge 400 Avg Memory Usage: Physical: 7.50 bytes, Virtual: 5.19 bytes
+Concurrent GList Multiple Merge 400 Avg Memory Usage: Physical: 119930.65 bytes, Virtual: 114763.48 bytes
+Concurrent GSet Multiple Merge 450 Avg Memory Usage: Physical: 23625.96 bytes, Virtual: 23326.75 bytes
+Concurrent Orswot Multiple Merge 450 Avg Memory Usage: Physical: 0.67 bytes, Virtual: 18.14 bytes
+Concurrent GCounter Multiple Merge 450 Avg Memory Usage: Physical: 0.39 bytes, Virtual: 0.39 bytes
+Concurrent PNCounter Multiple Merge 450 Avg Memory Usage: Physical: 2.11 bytes, Virtual: 1.93 bytes
+Concurrent LWWReg Multiple Merge 450 Avg Memory Usage: Physical: 1.43 bytes, Virtual: 1.04 bytes
+Concurrent MVReg Multiple Merge 450 Avg Memory Usage: Physical: 7.17 bytes, Virtual: 7.17 bytes
+Concurrent Map Multiple Merge 450 Avg Memory Usage: Physical: 21.95 bytes, Virtual: 19.26 bytes
+Concurrent GList Multiple Merge 450 Avg Memory Usage: Physical: 51110.37 bytes, Virtual: 48208.33 bytes
+Concurrent GSet Multiple Merge 500 Avg Memory Usage: Physical: 7870.81 bytes, Virtual: 7733.88 bytes
+Concurrent Orswot Multiple Merge 500 Avg Memory Usage: Physical: 1.79 bytes, Virtual: 21.72 bytes
+Concurrent GCounter Multiple Merge 500 Avg Memory Usage: Physical: 0.88 bytes, Virtual: 0.88 bytes
+Concurrent PNCounter Multiple Merge 500 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.70 bytes
+Concurrent LWWReg Multiple Merge 500 Avg Memory Usage: Physical: 1.30 bytes, Virtual: 1.17 bytes
+Concurrent MVReg Multiple Merge 500 Avg Memory Usage: Physical: 8.51 bytes, Virtual: 8.73 bytes
+Concurrent Map Multiple Merge 500 Avg Memory Usage: Physical: 58.67 bytes, Virtual: 118.24 bytes
+Concurrent GList Multiple Merge 500 Avg Memory Usage: Physical: 29118.10 bytes, Virtual: 29881.26 bytes
+Concurrent GSet Multiple Merge 550 Avg Memory Usage: Physical: 3193.07 bytes, Virtual: 2130.00 bytes
+Concurrent Orswot Multiple Merge 550 Avg Memory Usage: Physical: 2.46 bytes, Virtual: 7.84 bytes
+Concurrent GCounter Multiple Merge 550 Avg Memory Usage: Physical: 0.53 bytes, Virtual: 0.53 bytes
+Concurrent PNCounter Multiple Merge 550 Avg Memory Usage: Physical: 0.35 bytes, Virtual: 0.35 bytes
+Concurrent LWWReg Multiple Merge 550 Avg Memory Usage: Physical: 0.39 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 550 Avg Memory Usage: Physical: 8.96 bytes, Virtual: 8.96 bytes
+Concurrent Map Multiple Merge 550 Avg Memory Usage: Physical: 10.30 bytes, Virtual: 6.27 bytes
+Concurrent GList Multiple Merge 550 Avg Memory Usage: Physical: 30057.59 bytes, Virtual: 27140.56 bytes
+Concurrent GSet Multiple Merge 600 Avg Memory Usage: Physical: 8349.93 bytes, Virtual: 6940.73 bytes
+Concurrent Orswot Multiple Merge 600 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Merge 600 Avg Memory Usage: Physical: 1.58 bytes, Virtual: 1.05 bytes
+Concurrent PNCounter Multiple Merge 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 600 Avg Memory Usage: Physical: 17.89 bytes, Virtual: 19.04 bytes
+Concurrent Map Multiple Merge 600 Avg Memory Usage: Physical: 12.09 bytes, Virtual: 4.48 bytes
+Concurrent GList Multiple Merge 600 Avg Memory Usage: Physical: 60633.31 bytes, Virtual: 54311.08 bytes
+Concurrent GSet Multiple Merge 650 Avg Memory Usage: Physical: 17405.66 bytes, Virtual: 17124.47 bytes
+Concurrent Orswot Multiple Merge 650 Avg Memory Usage: Physical: 1.15 bytes, Virtual: 0.87 bytes
+Concurrent GCounter Multiple Merge 650 Avg Memory Usage: Physical: 3.51 bytes, Virtual: 3.16 bytes
+Concurrent PNCounter Multiple Merge 650 Avg Memory Usage: Physical: 1.23 bytes, Virtual: 1.05 bytes
+Concurrent LWWReg Multiple Merge 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 650 Avg Memory Usage: Physical: 14.72 bytes, Virtual: 15.00 bytes
+Concurrent Map Multiple Merge 650 Avg Memory Usage: Physical: 10.30 bytes, Virtual: 0.45 bytes
+Concurrent GList Multiple Merge 650 Avg Memory Usage: Physical: 79124.71 bytes, Virtual: 72840.01 bytes
+Concurrent GSet Multiple Merge 700 Avg Memory Usage: Physical: 8295.10 bytes, Virtual: 5264.50 bytes
+Concurrent Orswot Multiple Merge 700 Avg Memory Usage: Physical: 8.08 bytes, Virtual: 12.41 bytes
+Concurrent GCounter Multiple Merge 700 Avg Memory Usage: Physical: 3.69 bytes, Virtual: 3.51 bytes
+Concurrent PNCounter Multiple Merge 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 700 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 700 Avg Memory Usage: Physical: 20.49 bytes, Virtual: 20.78 bytes
+Concurrent Map Multiple Merge 700 Avg Memory Usage: Physical: 99.43 bytes, Virtual: 86.89 bytes
+Concurrent GList Multiple Merge 700 Avg Memory Usage: Physical: 107654.69 bytes, Virtual: 98414.70 bytes
+Concurrent GSet Multiple Merge 750 Avg Memory Usage: Physical: 9446.84 bytes, Virtual: 6693.63 bytes
+Concurrent Orswot Multiple Merge 750 Avg Memory Usage: Physical: 10.39 bytes, Virtual: 101.57 bytes
+Concurrent GCounter Multiple Merge 750 Avg Memory Usage: Physical: 7.55 bytes, Virtual: 7.55 bytes
+Concurrent PNCounter Multiple Merge 750 Avg Memory Usage: Physical: 0.35 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 750 Avg Memory Usage: Physical: 1.23 bytes, Virtual: 0.53 bytes
+Concurrent MVReg Multiple Merge 750 Avg Memory Usage: Physical: 11.25 bytes, Virtual: 11.54 bytes
+Concurrent Map Multiple Merge 750 Avg Memory Usage: Physical: 12.99 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Merge 750 Avg Memory Usage: Physical: 115979.53 bytes, Virtual: 106503.38 bytes
+Concurrent GSet Multiple Merge 800 Avg Memory Usage: Physical: 20443.13 bytes, Virtual: 16306.58 bytes
+Concurrent Orswot Multiple Merge 800 Avg Memory Usage: Physical: 8.37 bytes, Virtual: 11.83 bytes
+Concurrent GCounter Multiple Merge 800 Avg Memory Usage: Physical: 2.63 bytes, Virtual: 1.93 bytes
+Concurrent PNCounter Multiple Merge 800 Avg Memory Usage: Physical: 1.58 bytes, Virtual: 1.93 bytes
+Concurrent LWWReg Multiple Merge 800 Avg Memory Usage: Physical: 0.88 bytes, Virtual: 0.53 bytes
+Concurrent MVReg Multiple Merge 800 Avg Memory Usage: Physical: 17.31 bytes, Virtual: 17.60 bytes
+Concurrent Map Multiple Merge 800 Avg Memory Usage: Physical: 38.52 bytes, Virtual: 19.71 bytes
+Concurrent GList Multiple Merge 800 Avg Memory Usage: Physical: 243893.63 bytes, Virtual: 223601.52 bytes
+Concurrent GSet Multiple Merge 850 Avg Memory Usage: Physical: 17125.41 bytes, Virtual: 14832.30 bytes
+Concurrent Orswot Multiple Merge 850 Avg Memory Usage: Physical: 9.52 bytes, Virtual: 101.86 bytes
+Concurrent GCounter Multiple Merge 850 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Merge 850 Avg Memory Usage: Physical: 0.18 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 850 Avg Memory Usage: Physical: 1.40 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 850 Avg Memory Usage: Physical: 18.81 bytes, Virtual: 16.12 bytes
+Concurrent Map Multiple Merge 850 Avg Memory Usage: Physical: 389.15 bytes, Virtual: 562.53 bytes
+Concurrent GList Multiple Merge 850 Avg Memory Usage: Physical: 434313.79 bytes, Virtual: 438710.41 bytes
+Concurrent GSet Multiple Merge 900 Avg Memory Usage: Physical: 14013.20 bytes, Virtual: 10340.37 bytes
+Concurrent Orswot Multiple Merge 900 Avg Memory Usage: Physical: 12.41 bytes, Virtual: 183.81 bytes
+Concurrent GCounter Multiple Merge 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Merge 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 900 Avg Memory Usage: Physical: 20.18 bytes, Virtual: 20.18 bytes
+Concurrent MVReg Multiple Merge 900 Avg Memory Usage: Physical: 31.80 bytes, Virtual: 31.80 bytes
+Concurrent Map Multiple Merge 900 Avg Memory Usage: Physical: 379.76 bytes, Virtual: 438.05 bytes
+Concurrent GList Multiple Merge 900 Avg Memory Usage: Physical: 431658.28 bytes, Virtual: 428426.57 bytes
+Concurrent GSet Multiple Merge 950 Avg Memory Usage: Physical: 60833.42 bytes, Virtual: 66148.84 bytes
+Concurrent Orswot Multiple Merge 950 Avg Memory Usage: Physical: 8.08 bytes, Virtual: 9.81 bytes
+Concurrent GCounter Multiple Merge 950 Avg Memory Usage: Physical: 2.28 bytes, Virtual: 1.58 bytes
+Concurrent PNCounter Multiple Merge 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Merge 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 950 Avg Memory Usage: Physical: 53.77 bytes, Virtual: 47.60 bytes
+Concurrent Map Multiple Merge 950 Avg Memory Usage: Physical: 766.28 bytes, Virtual: 712.70 bytes
+Concurrent GList Multiple Merge 950 Avg Memory Usage: Physical: 293102.72 bytes, Virtual: 273426.85 bytes
+Concurrent GSet Multiple Merge 1000 Avg Memory Usage: Physical: 50905.64 bytes, Virtual: 47223.00 bytes
+Concurrent Orswot Multiple Merge 1000 Avg Memory Usage: Physical: 34.05 bytes, Virtual: 81.95 bytes
+Concurrent GCounter Multiple Merge 1000 Avg Memory Usage: Physical: 0.45 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Merge 1000 Avg Memory Usage: Physical: 3.69 bytes, Virtual: 2.11 bytes
+Concurrent LWWReg Multiple Merge 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Merge 1000 Avg Memory Usage: Physical: 13.88 bytes, Virtual: 13.44 bytes
+Concurrent Map Multiple Merge 1000 Avg Memory Usage: Physical: 251.06 bytes, Virtual: 365.33 bytes
+Concurrent GList Multiple Merge 1000 Avg Memory Usage: Physical: 484480.39 bytes, Virtual: 482538.86 bytes
+GSet Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 50 Avg Memory Usage: Physical: 0.06 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Multiple Read 50 Avg Memory Usage: Physical: 0.02 bytes, Virtual: 0.00 bytes
+List Multiple Read 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 100 Avg Memory Usage: Physical: 0.06 bytes, Virtual: 0.06 bytes
+GList Multiple Read 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 200 Avg Memory Usage: Physical: 0.78 bytes, Virtual: 0.78 bytes
+GList Multiple Read 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 250 Avg Memory Usage: Physical: 0.22 bytes, Virtual: 0.22 bytes
+GList Multiple Read 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 300 Avg Memory Usage: Physical: 1.40 bytes, Virtual: 1.40 bytes
+GList Multiple Read 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 350 Avg Memory Usage: Physical: 3.69 bytes, Virtual: 3.69 bytes
+GList Multiple Read 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 400 Avg Memory Usage: Physical: 1.75 bytes, Virtual: 1.75 bytes
+GList Multiple Read 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 450 Avg Memory Usage: Physical: 2.91 bytes, Virtual: 2.24 bytes
+GList Multiple Read 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 500 Avg Memory Usage: Physical: 3.58 bytes, Virtual: 3.14 bytes
+GList Multiple Read 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 550 Avg Memory Usage: Physical: 5.82 bytes, Virtual: 6.05 bytes
+GCounter Multiple Read 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 550 Avg Memory Usage: Physical: 6.72 bytes, Virtual: 5.37 bytes
+GList Multiple Read 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 600 Avg Memory Usage: Physical: 5.15 bytes, Virtual: 5.15 bytes
+GCounter Multiple Read 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 600 Avg Memory Usage: Physical: 2.91 bytes, Virtual: 2.69 bytes
+GList Multiple Read 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 650 Avg Memory Usage: Physical: 12.70 bytes, Virtual: 12.70 bytes
+GList Multiple Read 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 700 Avg Memory Usage: Physical: 1.15 bytes, Virtual: 1.44 bytes
+GCounter Multiple Read 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 700 Avg Memory Usage: Physical: 11.25 bytes, Virtual: 9.81 bytes
+GList Multiple Read 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 750 Avg Memory Usage: Physical: 5.77 bytes, Virtual: 5.77 bytes
+GCounter Multiple Read 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 750 Avg Memory Usage: Physical: 6.64 bytes, Virtual: 6.64 bytes
+GList Multiple Read 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 800 Avg Memory Usage: Physical: 9.52 bytes, Virtual: 7.50 bytes
+GList Multiple Read 800 Avg Memory Usage: Physical: 0.92 bytes, Virtual: 0.92 bytes
+List Multiple Read 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 850 Avg Memory Usage: Physical: 0.58 bytes, Virtual: 0.58 bytes
+GCounter Multiple Read 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 850 Avg Memory Usage: Physical: 11.25 bytes, Virtual: 11.25 bytes
+GList Multiple Read 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 900 Avg Memory Usage: Physical: 11.65 bytes, Virtual: 10.75 bytes
+GList Multiple Read 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 950 Avg Memory Usage: Physical: 0.87 bytes, Virtual: 0.00 bytes
+GList Multiple Read 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Multiple Read 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Multiple Read 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Multiple Read 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Multiple Read 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Multiple Read 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Multiple Read 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Multiple Read 1000 Avg Memory Usage: Physical: 58.96 bytes, Virtual: 47.91 bytes
+GList Multiple Read 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Multiple Read 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Read Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Read Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Read Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Read Avg Memory Usage: Physical: 0.11 bytes, Virtual: 0.00 bytes
+Concurrent GList Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Read Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 50 Avg Memory Usage: Physical: 0.08 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 50 Avg Memory Usage: Physical: 0.08 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 50 Avg Memory Usage: Physical: 0.58 bytes, Virtual: 106.19 bytes
+Concurrent Map Multiple Reads 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 50 Avg Memory Usage: Physical: 0.08 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 250 Avg Memory Usage: Physical: 4.79 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 800 Avg Memory Usage: Physical: 38.28 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GSet Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GCounter Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent LWWReg Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent MVReg Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent GList Multiple Reads 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes

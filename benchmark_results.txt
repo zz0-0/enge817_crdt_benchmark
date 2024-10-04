@@ -1,0 +1,452 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Concurrent Orswot Remove Multiple 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 2.46 bytes
+Concurrent PNCounter Decrement Multiple 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.22 bytes
+Concurrent Map Remove Multiple 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.90 bytes
+Concurrent PNCounter Decrement Multiple 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.45 bytes
+Concurrent List Remove Multiple 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 750 Avg Memory Usage: Physical: 0.35 bytes, Virtual: 0.35 bytes
+Concurrent List Remove Multiple 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Orswot Remove Multiple 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent PNCounter Decrement Multiple 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent Map Remove Multiple 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Concurrent List Remove Multiple 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 50 Avg Memory Usage: Physical: 0.03 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 50 Avg Memory Usage: Physical: 0.02 bytes, Virtual: 0.00 bytes
+List Mixed Operations 50 Avg Memory Usage: Physical: 0.01 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Mixed Operations 1000 Avg Memory Usage: Physical: 1.15 bytes, Virtual: 0.58 bytes
+GList Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.07 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.01 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.03 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.05 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.12 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 50 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 100 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 150 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 200 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 250 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 300 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 350 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 400 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 450 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 500 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 550 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 600 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 650 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 700 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 750 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 800 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 850 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 900 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GList Concurrent Mixed Operations 950 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GSet Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Orswot Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+GCounter Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+PNCounter Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+LWWReg Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+MVReg Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+Map Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
+List Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 1.62 bytes, Virtual: 1.62 bytes
+GList Concurrent Mixed Operations 1000 Avg Memory Usage: Physical: 0.00 bytes, Virtual: 0.00 bytes
